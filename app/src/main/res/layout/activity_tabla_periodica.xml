@@ -1,0 +1,411 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10px" >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10px" >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/h45"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="H" />
+
+                    <Button
+                        android:id="@+id/h46"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Li" />
+
+                    <Button
+                        android:id="@+id/h47"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Na" />
+
+                    <Button
+                        android:id="@+id/h48"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="K" />
+
+                    <Button
+                        android:id="@+id/h49"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Rb" />
+
+                    <Button
+                        android:id="@+id/h50"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Cs" />
+
+                    <Button
+                        android:id="@+id/h51"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Fr" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/h34"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h35"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Be" />
+
+                    <Button
+                        android:id="@+id/h36"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Mg" />
+
+                    <Button
+                        android:id="@+id/h37"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Ca" />
+
+                    <Button
+                        android:id="@+id/h38"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Sr" />
+
+                    <Button
+                        android:id="@+id/h39"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Ba" />
+
+                    <Button
+                        android:id="@+id/h40"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Ra" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/h56"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h23"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h25"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h26"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Sc" />
+
+                    <Button
+                        android:id="@+id/h27"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Y" />
+
+                    <Button
+                        android:id="@+id/h28"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="57-71" />
+
+                    <Button
+                        android:id="@+id/h29"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="89-103" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/h11"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h12"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h13"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/h14"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Ti" />
+
+                    <Button
+                        android:id="@+id/h15"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Zr" />
+
+                    <Button
+                        android:id="@+id/h16"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Hf" />
+
+                    <Button
+                        android:id="@+id/h17"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Rf" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/b8"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b9"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b10"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/v"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="V" />
+
+                    <Button
+                        android:id="@+id/nb"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Nb" />
+
+                    <Button
+                        android:id="@+id/ta"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Ta" />
+
+                    <Button
+                        android:id="@+id/db"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Db" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/b11"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b12"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b13"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/cr"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Cr" />
+
+                    <Button
+                        android:id="@+id/mo"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Mo" />
+
+                    <Button
+                        android:id="@+id/w"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="W" />
+
+                    <Button
+                        android:id="@+id/sg"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Sg" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/b14"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b15"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b16"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/mn"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Mn" />
+
+                    <Button
+                        android:id="@+id/tc"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Tc" />
+
+                    <Button
+                        android:id="@+id/re"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Re" />
+
+                    <Button
+                        android:id="@+id/bh"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Bh" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/b17"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b18"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/b19"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:background="@android:color/transparent" />
+
+                    <Button
+                        android:id="@+id/fe"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Fe" />
+
+                    <Button
+                        android:id="@+id/ru"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Ru" />
+
+                    <Button
+                        android:id="@+id/os"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Os" />
+
+                    <Button
+                        android:id="@+id/hs"
+                        android:layout_width="match_parent"
+                        android:layout_height="71dp"
+                        android:text="Hs" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </HorizontalScrollView>
+</LinearLayout>
